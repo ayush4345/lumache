@@ -5,9 +5,14 @@
 
 # Welcome to lumache's documentation!
 
+For further info, check out {doc}`usage`
+Read installation instructions in {ref}`Tnstallation`
+
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+usage
 ```
 
 # Indices and tables
