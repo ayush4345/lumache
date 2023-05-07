@@ -14,6 +14,7 @@ def get_random_ingredients(Kind =  None):
 
     :param kind: Option "kind" of ingredients
     :type kind: list[str] or None
+    :return: The ingredients list
     :rtypr: list[str]
     """
 

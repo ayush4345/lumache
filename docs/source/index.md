@@ -6,7 +6,7 @@
 # Welcome to lumache's documentation!
 
 For further info, check out {doc}`usage`
-Read installation instructions in {ref}`Tnstallation`
+Read installation instructions in {ref}`Installation`
 
 ```{toctree}
 :caption: 'Contents:'
