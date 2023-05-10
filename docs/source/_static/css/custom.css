@@ -25,6 +25,7 @@
     text-align: center;
     color: var(--mdx-custom-footer-fg-color);
     background-color: var(--mdx-custom-footer-bg-color);
+    display: flex;
   }
   .custom-footer a {
     color: var(--mdx-custom-footer-fg-color) !important;
