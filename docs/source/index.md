@@ -15,8 +15,8 @@ Read installation instructions in {ref}`Installation`
 usage
 ```
 
-# Indices and tables
+<!-- # Indices and tables
 
 - {ref}`genindex`
 - {ref}`modindex`
-- {ref}`search`
+- {ref}`search` -->
