@@ -30,6 +30,11 @@
   .custom-footer a {
     color: var(--mdx-custom-footer-fg-color) !important;
   }
+
+  .git-img{
+    width: 48px;
+    height: 48px;
+  }
   
   /*Navigation customisation*/
   .md-nav--secondary .md-nav__item .md-nav__item a.md-nav__link {
